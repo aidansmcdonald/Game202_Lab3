@@ -1,0 +1,6 @@
+﻿  File not found - *.dll
+  0 File(s) copied
+  main.cpp
+c:\users\owner\onedrive\semester 2\game_202_labs\lab3\lab3-part2\main.cpp(154): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : C:\Users\Owner\OneDrive\Semester 2\Game_202_Labs\Lab3\Debug\Lab3-Part2.exe not found or not built by the last incremental link; performing full link
+  Lab3-Part2.vcxproj -> C:\Users\Owner\OneDrive\Semester 2\Game_202_Labs\Lab3\Debug\Lab3-Part2.exe
